@@ -11,7 +11,7 @@ sudo firewall-cmd --permanent --add-port=10251/tcp
 sudo firewall-cmd --permanent --add-port=10252/tcp
 sudo firewall-cmd --permanent --add-port=10255/tcp
 firewall-cmd --permanent --add-port=8443/tcp
-sudo firewall-cmd –reload
+sudo firewall-cmd -–reload
 
 #Disable Swap
 swapoff -a
