@@ -26,7 +26,7 @@ nodes = [
 
 - Vagrant 1.8 +
 
-## Installing the Chart
+## Running instances
 
 To run instances
 
