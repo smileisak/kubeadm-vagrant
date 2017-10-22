@@ -1,6 +1,6 @@
 # kubeadm-vagrant
 
-[![Build Status](https://travis-ci.org/smileisak/kubeadm_vagrant.svg?branch=master)](https://travis-ci.org/smileisak/kubeadm_vagrant)
+![Build Status](https://travis-ci.org/smileisak/kubeadm-vagrant.svg?branch=master)
 
 This project bootstraps an already configured [Vagrant]() instances to practice Kubernetes cluster installation using kubeadm.
 
